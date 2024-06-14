@@ -1,0 +1,9 @@
+2024-06-14 22:50:50,235-__main__-INFO-Reading sonar data from the csv file
+2024-06-14 22:50:50,251-__main__-INFO-checking the data and conducting the EDA
+2024-06-14 22:50:50,252-__main__-INFO- There are 208 columns and 61 rows
+2024-06-14 22:50:50,257-__main__-INFO-Seperating the dependent and independent columns to train the model
+2024-06-14 22:50:50,262-__main__-INFO-We are using logistic regression for building the model
+2024-06-14 22:50:50,309-__main__-INFO-The accuracy score on training data is 0.8235294117647058
+2024-06-14 22:50:50,309-__main__-INFO-Checking the model with test data and checking the accuracy for the same
+2024-06-14 22:50:50,313-__main__-INFO-The accuracy score of testing is 0.8571428571428571
+2024-06-14 22:50:50,314-__main__-INFO-Building an predictive System
